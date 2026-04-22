@@ -11,6 +11,6 @@ package com.mycompany.miprimerproyecto;
 public class MiPrimerProyecto {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+    System.out.println("¡Hola desde GitHub!");
     }
 }
